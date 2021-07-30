@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title></title>
+      <link href="2021/07/30/toxx/"/>
+      <url>2021/07/30/toxx/</url>
+      
+        <content type="html"><![CDATA[<!DOCTYPE html><html lang="en"><head>  <meta charset="UTF-8">  <meta http-equiv="X-UA-Compatible" content="IE=edge">  <meta name="viewport" content="width=device-width, initial-scale=1.0">  <title>改变接口</title>  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">  <style>    body{      background: url(https://pic.imgdb.cn/item/60afc0c008f74bc15912e280.jpg) no-repeat;      background-size:100% 100%;      background-attachment:fixed;      }    .container{      width: 40vw;      font-size: 1.3vw;    }  </style></head><body>  <div class="container">    <div class="row row-centered">      <div class="well col-md-12  col-centered">        <form role="form" class=“form-horizontal”  action="http://yhjp.store:5000/xx/set?name=&info=&yours=&key=" method="GET">          <div class="form-group">            <label for="name">昵称</label>            <input type="text" class="form-control" name='name' value="xx">          </div>          <div class="form-group">            <label for="name">内容</label>            <input type="text" class="form-control" name='info' value="mua">          </div>          <div class="form-group">            <label for="name">落款</label>            <input type="text" class="form-control" name='yours' value="ee">          </div>          <input type="hidden" name="key" value="aseaee">          <button type="submit" class="btn btn-default">提交</button>          <button type="reset" class="btn btn-default">重置</button>          <a href='http://yhjp.store:5000/xx?key=aseaee'><button type="button" class="btn btn-default">查看当前设置</button></a>        </form>      </div>    </div>  </div></body></html>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>生日快乐鸭</title>
       <link href="2021/04/09/%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%E9%B8%AD/"/>
       <url>2021/04/09/%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%E9%B8%AD/</url>
